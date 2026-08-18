@@ -44,7 +44,7 @@ explain, not flat lines.
 
 ## Dashboard
 
-![Dashboard overview](screenshots/dashboard-overview.png)
+![Dashboard overview](D:\ishadata\partner-pricing-dashboard\dashboards\Dashboard.png)
 
 The dashboard combines four views:
 
